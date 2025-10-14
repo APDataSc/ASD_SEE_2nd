@@ -2,7 +2,7 @@
 # Octubre 2025
 
 ### Andrés Peña M.
-[R Users Group - Ecuador](http://rusersgroup.com/)
+[andres.pena.montalvo@ciencias.unam.mx](andres.pena.montalvo@ciencias.unam.mx)
 
 ## Sociedad Ecuatoriana de Estadística
 
