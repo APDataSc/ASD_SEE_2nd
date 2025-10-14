@@ -1,5 +1,5 @@
-# Análisis Sociodemográfico con R - 1ra edición
-# Junio 2022
+# Análisis Sociodemográfico con R - 2da edición
+# Octubre 2025
 
 ### Andrés Peña M.
 [R Users Group - Ecuador](http://rusersgroup.com/)
@@ -18,7 +18,7 @@
 
 #### Enlaces:
 
-- [Google Drive](https://drive.google.com/drive/folders/1qvMAmXwR2aI2UggmtVrA_BV2xNOw-ECg?usp=sharing)
+- [Google Drive](https://drive.google.com/drive/folders/1Ftg3MfdnxZlnFXa6mLercsWUtjDn7TOx?usp=sharing)
 
 - [Link de CEPAL de las estimaciones y proyecciones: Archivos Excel](https://www.cepal.org/es/subtemas/proyecciones-demograficas/america-latina-caribe-estimaciones-proyecciones-poblacion/estimaciones-proyecciones-excel)
 
@@ -28,4 +28,4 @@
 
 
 #### Evaluaciones:
-* [Evaluación](https://forms.gle/8ugyf2cmU29yusRy7), 50% cuestionario y 50% ejercicio WPP 2024
+* [Evaluación](), 50% cuestionario y 50% ejercicio práctico WPP 2024
