@@ -2,7 +2,7 @@
 # Octubre 2025
 
 ### Andrés Peña M.
-[andres.pena.montalvo@ciencias.unam.mx](andres.pena.montalvo@ciencias.unam.mx)
+[andres.pena.montalvo@ciencias.unam.mx](mailto:andres.pena.montalvo@ciencias.unam.mx)
 
 ## Sociedad Ecuatoriana de Estadística
 
